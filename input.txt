@@ -1,1 +1,232 @@
-This is semple of fs core module with writefilesync method
+What is a Programming Language? 
+A programming language is a way for programmers (developers) to communicate with computers. Programming languages consist of a set of rules that allows string values to be converted into various ways of generating machine code, or, in the case of visual programming languages, graphical elements.
+
+Generally speaking, a program is a set of instructions written in a particular language (C, C++, Java, Python) to achieve a particular task.
+
+Unlock the synergy of programming languages for cyber security bootcamp. Delve into the realm of ethical hacking and defense strategies, all while mastering the programming languages that power digital landscapes. From Python to C++, equip yourself with the tools to detect vulnerabilities and fortify systems against cyber threats. Join us in building a solid foundation in both programming and cybersecurity to stand strong in the ever-evolving digital world.
+
+Top 20 Best Programming Languages To Learn in 2024
+By Sruthi Veeraraghavan
+Last updated on Dec 12, 20231062680105
+20 Most Popular Programming Languages to Learn in 2024
+Table of Contents
+What is a Programming Language? Major Types of Programming Languages Other Ways to Classify Programming Languages What Programming Language Should You Learn?  What Are the Best Programming Languages to Learn in 2024?View More
+Once upon a time, the world of computer programming was a mysterious and exclusive place. Only a select handful of people were considered computer programmers with cutting-edge coding skills. Today, many IT jobs require a solid grasp of the top programming languages, and yes, we mean more than one. 
+
+If your plans to advance your career or change careers completely require you to master a programming language, you might wonder which one to learn. After all, it will take time and money to learn the language, so you want to make the right choice.
+
+When making your decision, you should bear several considerations in mind, like the difficulty level you’re willing to tackle, the programming language knowledge you already possess that meshes with your existing coding skills, or your reasons for learning a top programming language. 
+
+Whether you want to develop a mobile application, get certification for programming knowledge, or learn new skills, you need to learn the right programming language. Below you’ll learn about the best programming languages in demand among employers in 2024. You’ll be briefed about the details of each language, its complexity, and how it is used.
+
+Get the IIT-M Advantage!
+PCP In Full Stack Development - MERNEXPLORE COURSEGet the IIT-M Advantage!
+What is a Programming Language? 
+A programming language is a way for programmers (developers) to communicate with computers. Programming languages consist of a set of rules that allows string values to be converted into various ways of generating machine code, or, in the case of visual programming languages, graphical elements.
+
+Generally speaking, a program is a set of instructions written in a particular language (C, C++, Java, Python) to achieve a particular task.
+
+Unlock the synergy of programming languages for cyber security bootcamp. Delve into the realm of ethical hacking and defense strategies, all while mastering the programming languages that power digital landscapes. From Python to C++, equip yourself with the tools to detect vulnerabilities and fortify systems against cyber threats. Join us in building a solid foundation in both programming and cybersecurity to stand strong in the ever-evolving digital world.
+
+Learn more about the top trending and in-demand programming languages and take a step towards upskilling today!
+
+
+Major Types of Programming Languages 
+Procedural Programming Languages 
+A programming paradigm that uses procedures or functions to abbreviate and categorize the code into reusable blocks is a procedural programming language. C, Pascal and FORTRAN are the most in-demand programming languages supporting this paradigm. 
+
+In this programming, the program is divided into functions or procedures. They are primarily insular sub-programs that perform a specific task. These procedures can be called from other program parts, allowing for flexible programming and code reuse. The priority is the systematic execution of a program. Further, it emphasizes the series of instructions and influences data stored in variables.
+
+These are the best programming languages to learn as they are widely used in the fields like engineering, gaming and finance. Procedural programming can be less flexible though this does not stop it from being one of the most significant programming paradigms taught in high-ranking computer science courses.  
+
+Functional Programming Languages 
+Unlike procedural languages, functional programming languages are more flexible. It is composed of a series of functions. This programming paradigm stresses the use of model computations and data transformation. Haskell, Clojure, Lisp and Scala are the languages supporting this paradigm. 
+
+Functional programming makes programs easier to reason with and increases their reliability. The functions solely operate on their input arguments. They are less popular, but they have experienced a colossal boom from the educational point of view. They are assigned to variables, passed as arguments to other functions and return results from other functions. 
+
+Functional programming is efficient parallel programming. They have no mutable state. You can program functions and parallelly work as instructions. These codes support nested functions and consist of independent units that run coherently. Hence, this is more efficient.
+
+Object-oriented Programming Languages 
+In an object-oriented programming language, objects define the data and the behavior of objects. These objects typically include data attributes representing the object's state and method. This language enables users to make a complex system with interconnected objects.
+
+This language hides implementation components from the outside world through encapsulation. This makes it possible to build large intricate systems without stressing about the internal workings of respective objects. The other benefit that makes this language so in demand is the feature of inheritance. It creates a ranking of classes that share common features while still allowing customization. 
+
+Some popular object-oriented programming languages are Java, Python, C++, and Ruby. All these languages are top programming languages, but they share the principle of being object-oriented. 
+
+Scripting Languages 
+Simple to learn with easy syntax and dynamic typing, the scripting language is the type of language that is interpreted rather than compiled. The two types of this language are server-side scripting languages and client-side scripting languages. These languages make communication possible with other programming languages.
+
+Python - The easiest programming language used among developers is Python. It is an object-oriented programming language. The language has a high-Level data structure, and built-in libraries, that make it easy to use and suitable for rapid application development. It is easy, decoded and has a dynamic semantic language. 
+Perl - The language is dynamic with innovative features that make it popular and different from what is available on Linux and Windows Server. Websites with high traffic usually use Perl, including IMDB, as it helps in text manipulation tasks. 
+Bash - Bourne -Again, SHell is a scripting language that is the default command interpreter on most Linux/GNU operating systems. This language is easier than most of the other programming languages. Bash makes it easier to create script store documentation for others and provides useful reusable scripts. 
+
+Logic Programming Languages
+As the name suggests, this is computer programming based on formal logic. This programming language program consists of a cluster of logical statements or rules that determine relationships among objects. It allows the system to extrapolate new information. 
+
+Artificial intelligence and expert systems commonly use this language where reasoning and conjecture are required. This language allows a concise and expressive program which is easier to reason about and maintain than programs that return to other paradigms. 
+
+To summarize, logical programming is a secure and flexible approach to solving problems in computer programming. It is suitable for every type of problem. It is a valuable tool for a few applications as well. One of the most popular logical languages is Prolog which consists of a set of facts and rules to describe a problem and reason about it. 
+
+Imperative Programming 
+In imperative programming, the programmer provides a set of instructions that the computer follows to manipulate the state of the program and the information structure within it. This paradigm describes the steps that a computer needs to take to solve a program rather than defining the mathematical function. C, C++, Java, and Python are some of the imperative programming languages, 
+
+The Imperative is the most popular programming language in software development for system programming and low-level programming tasks, which includes direct level control over hardware resources.
+
+Other Ways to Classify Programming Languages 
+Front-end vs. Back-end Languages 
+Front-end languages are called client-side languages, which are used to create virtual and interactive website elements that users can see. The front-end languages include HTML, CSS and JavaScript. 
+
+Backend languages are known as server-side languages. They create logic and functionality behind the scenes of the website, like processing, storing and managing the user's account and authentication. Python, Ruby, and Java are some of the backend languages.
+
+High-level vs. Low-level Languages 
+High-level languages are easy to read and write since they are understandable. Developers can write code at a higher level of abstraction without worrying about the underlying hardware or operating system, as it is close to natural languages. They have built-in libraries and frameworks to simplify ordinary programming tasks like managing data structures or executing calculations. Examples of high-level languages are Python, Java or Ruby. 
+
+On the other hand, level languages are much more complex to understand and write. The code written in languages is very efficient and directly manipulates the hardware and memory of the computer. Yet the developer needs to rely on manual efforts and understanding. Assembly language and C are examples of this type of language.   
+
+Interpreted vs. Compiled Languages 
+The interpreter directly executes and reads the interpreted code line by line without compiling it into machine code. It can be executed immediately without requiring separate compilation steps, such as Python, Ruby and JavaScript.
+
+In contrast, the compiler first translates the compiled languages into machine code. Further converts the human-readable code into a structure that computers can execute. Languages like C, C++, and Java fall into this category.
+
+What Programming Language Should You Learn?  
+With rigorous updates in the tech market, a candidate should be up-to-date with new languages. Though, other factors play a significant role in the decision of what programming languages to learn. 
+
+Firstly, one needs to understand their goals and what career one wants to pursue after learning the programming language.
+Next, conduct thorough market research and narrow down the field you want to enter.
+After that, you need to understand the industry demand and the job portfolio of the desired profession. Learn the skills and languages that are demanded in the chosen field. 
+You might want to start one of the easiest programming languages and gradually elevate your difficulty level. Python and Ruby are great languages, to begin with.
+Look for simply available material where you can learn quickly. Join communities and network with people at the top level of the field. 
+Lastly, keep reinventing and learning as the market is constantly changing.
+
+Below is a list of the most popular and best programming languages that will be in demand in 2024.
+
+1. Javascript
+2. Python
+3. Go
+4. Java
+5. Kotlin
+6. PHP
+7. C#
+8. Swift
+9. R
+10. Ruby
+11. C and C++
+12. Matlab
+13. TypeScript
+14. Scala
+15. SQL
+16. HTML
+17. CSS
+18. NoSQL
+19. Rust
+20. Perl
+
+1. Javascript
+JavaScript is a high-level programming language that is one of the core technologies of the World Wide Web. It is used as a client-side programming language by 97.8 percent of all websites. JavaScript was originally used only to develop web browsers, but they are now used for server-side website deployments and non-web browser applications as well. 
+
+Javascript was created in 1995 and was initially known as LiveScript. However, Java was a very popular language at that time, so it was advertised as a “younger brother” of Java. As it evolved over time, JavaScript became a fully independent language. Nowadays, JavaScript is often confused with Java, and although there are some similarities between them, the two languages are distinct.
+
+2. Python
+Python is one of the most popular programming languages today and is easy for beginners to learn because of its readability. It is a free, open-source programming language with extensive support modules and community development, easy integration with web services, user-friendly data structures, and GUI-based desktop applications. It is a popular programming language for machine learning and deep learning applications. 
+
+Python is used to develop 2D imaging and 3D animation packages like Blender, Inkscape, and Autodesk. It has also been used to create popular video games, including Civilization IV, Vegas Trike, and Toontown. Python is used for scientific and computational applications like FreeCAD and Abacus and by popular websites like YouTube, Quora, Pinterest, and Instagram. Python developers earn average annual salaries of about $109,092.
+
+3. Go
+Go was developed by Google in 2007 for APIs and web applications. Go has recently become one of the fastest-growing programming languages due to its simplicity, as well as its ability to handle multicore and networked systems and massive codebases.
+
+Go, also known as Golang, was created to meet the needs of programmers working on large projects. It has gained popularity among many large IT companies thanks to its simple and modern structure and syntax familiarity. Companies using Go as their programming language include Google, Uber, Twitch, Dropbox, among many others. Go is also gaining in popularity among data scientists because of its agility and performance.
+
+Go developers can earn an average annual salary of $141,654, and hitting up to $261,000. 
+
+4. Java
+Java is one of the most popular programming languages used today. 
+
+Owned by Oracle Corporation, this general-purpose programming language with its object-oriented structure has become a standard for applications that can be used regardless of platform (e.g., Mac, Windows, Android, iOS, etc.) because of its Write Once, Run Anywhere (WORA) capabilities. As a result, Java is recognized for its portability across platforms, from mainframe data centers to smartphones. Today there are more than 3 billion devices running applications built with Java.
+
+Java is widely used in web and application development as well as big data. Java is also used on the backend of several popular websites, including Google, Amazon, Twitter, and YouTube. It is also extensively used in hundreds of applications. New Java frameworks like Spring, Struts, and Hibernate are also very popular. With millions of Java developers worldwide, there are hundreds of ways to learn Java. Also, Java programmers have an extensive online community and support each other to solve problems.
+
+Java is a more complex language to learn, but experienced developers with Java coding skills are in high demand. The average Java developer earns around $109,225 each year.
+
+In computer programming, event-driven programming is a programming paradigm in which the flow of the program is determined by external events. Typical event can be UI events from mice, keyboards, touchpads and touchscreens, or external sensor inputs, or be programmatically generated (message passing) from other programs or threads, or network events.
+
+Event-driven programming is the dominant paradigm used in graphical user interfaces applications and network servers.
+
+In an event-driven application, there is generally an event loop that listens for events and then triggers a callback function when one of those events is detected.
+
+Event-driven programs can be written in any programming language, although the task is easier in languages that provide high-level abstractions.
+
+Although they do not exactly fit the event-driven model, interrupt handling and exception handling have many similarities.
+
+Defining Event Driven Programming
+Event Driven Programming is a programming paradigm that revolves around the structure and flow of code in response to specific events or changes in an application or system.
+
+What is Event Driven Programming?
+Event Driven Programming is a programming approach that enables software to respond to events originating from external sources, such as user input or system changes. It allows the creation of dynamic applications where the flow of control is determined by the sequence of events, rather than a predetermined order of execution. The primary goal of Event Driven Programming is to make the software more responsive to user actions and to simplify the development process by providing a clear separation between event handling and other aspects of the software design.
+
+Event Driven Programming: A programming paradigm that structures and organizes the flow of code around responding to events originating from external sources such as user input or system changes.
+
+What is Event Driven Programming?
+
+A Programming Model Focused On Multithreading And Parallel Execution Of Code, Aiming To Improve Performance On Multi-Core Processors.
+A Programming Approach That Emphasizes Object Interactions, Organizing Code Around Specific Objects Which Represent Real-World Entities And Their Relationships.
+A Programming Methodology That Prioritizes Code Reusability By Breaking Code Into Small Chunks, Often Through The Use Of Functions Or Classes That Can Be Reused Across Multiple Applications.
+A Programming Paradigm That Structures Code Around Responding To Events Originating From External Sources Like User Input Or System Changes, Creating Dynamic And Responsive Applications.
+
+Key Components of Event Driven Programming
+There are several key components in Event Driven Programming that work together to handle and process events in an efficient way. Understanding these components is essential for creating successful Event Driven applications.
+
+Event Handlers
+Event handlers are the backbone of Event Driven Programming. These are functions or methods that are designed to be triggered when a specific event occurs. For instance, when a user clicks on a button on a graphical user interface, an event handler associated with that button responds by executing the designated code.
+
+Event handlers can be further categorized as:
+
+Synchronous event handlers: Execute the code immediately when an event occurs.
+Asynchronous event handlers: Allow other tasks to continue executing while the code for handling the event is being processed.
+
+Event Loop
+The event loop is a continuous process that runs in the background and checks for any queued events. When an event is detected, the event loop dispatches it to the appropriate event handler for processing. It then moves on to the next event in the queue, ensuring that all events are handled as they occur. The event loop is responsible for managing the event queue and maintaining the responsiveness of the application.
+
+Event Queue
+The event queue is a data structure that holds events waiting to be processed by their associated handlers. Events are added to the queue as they occur, and they are removed and dispatched to the corresponding event handlers by the event loop. The event queue ensures that events are handled in the order in which they are received, and they also help manage concurrency and synchronization issues in Event Driven applications.
+
+Deep Dive: In Event Driven Programming, it is essential to carefully manage the event queue to prevent bottlenecks and maintain the responsiveness of the application. Properly handling events in the event queue ensures that the software can continue to process user input and other tasks while still remaining responsive to new events as they arise.
+
+Advantages and Disadvantages of Event Driven Programming
+Event Driven Programming as a programming paradigm possesses specific advantages and disadvantages that are important to evaluate when choosing an approach for a software project. By understanding the potential benefits and drawbacks of using Event Driven Programming, developers can make informed decisions on whether or not to implement this paradigm in their applications.
+
+Sign up here to study with Event Driven Programming flashcards in the free StudySmarter app.
+Pros of Event Driven Programming
+Utilising Event Driven Programming can offer an array of benefits to improve responsiveness, productivity, and general versatility within application development. Some of the more prominent advantages of Event Driven Programming include:
+
+Responsive Applications: Event Driven Programming allows applications to effectively respond to user input, resulting in a more dynamic and user-friendly experience. The event loop and event queue maintain the timely processing of events, ensuring that user interactions are effectively handled.
+Concurrency: Asynchronous event handling enables applications to execute multiple tasks concurrently. This capability can improve the overall performance and responsiveness of an application, particularly in situations where tasks are resource-intensive or time-consuming.
+Modularity and Maintainability: The separation of concerns in event-driven applications, through distinct event handlers and event management, promotes modularity and maintainability. Developers can focus on individual event handlers, making it simpler to comprehend, adjust, and augment the software.
+Scalability: Asynchronous event-driven architecture allows applications to efficiently utilize system resources, making it possible to scale both vertically and horizontally.
+Real-Time Processing: In the context of real-time applications, Event Driven Programming enables the processing of events as they occur, ensuring the continuous distribution of up-to-date information and consistent system responsiveness.
+Wide Range of Applications: Event Driven Programming can be applied across diverse domains, including web applications, graphical user interfaces, server-side systems, and data-driven applications.
+
+Event-driven programming is a programming paradigm where the flow of a program is determined by events that occur during its execution. Instead of following a linear sequence of operations, an event-driven program waits for specific events to occur and then triggers corresponding event handlers or callbacks to respond to those events.
+
+In event-driven programming, events can be various types of signals, actions, or occurrences, such as user interactions (e.g., button clicks, mouse movements, key presses), system events (e.g., timers, file input/output, network communication), or custom events generated within the program.
+
+Key concepts of event-driven programming:
+
+Event: An event is a signal or notification that something has happened. Events can be triggered by user actions, system actions, or other parts of the program.
+Event Handler (or Callback): An event handler is a piece of code that is executed in response to a specific event. When an event occurs, the associated event handler is invoked to handle that event.
+Event Loop: The event loop is a core component of event-driven programming. It continuously checks for new events in the program’s event queue and processes them in the order they occur. When an event is detected, the corresponding event handler is called.
+Asynchrony: Event-driven programming often involves asynchronous operations. Instead of blocking the program’s execution while waiting for an event to occur, it can continue processing other events or tasks until the event is ready to be handled.
+Event-driven programming is commonly used in graphical user interfaces (GUIs), web development (e.g., handling HTTP requests), networking (e.g., handling incoming data from sockets), and many other real-time or event-based applications.
+
+Example in JavaScript:
+
+// Event-driven programming in JavaScript (using DOM events)
+const button = document.getElementById('myButton');
+
+function handleClick() {
+  console.log('Button clicked!');
+}
+
+button.addEventListener('click', handleClick);
+In this JavaScript example, an event listener is attached to a button element with the ID ‘myButton.’ When the button is clicked, the handleClick function is executed in response to the click event.
+
+Event-driven programming allows developers to build responsive and interactive applications by reacting to user actions and external events in real-time. It is particularly effective in scenarios where the sequence of events cannot be predicted in advance or where parallel processing and non-blocking operations are essential.
