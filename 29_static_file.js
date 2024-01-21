@@ -3,17 +3,19 @@ const path = require('path');
 const app = express();
 const port = 8000;
 
-const staticPath = path.join(__dirname, './index.html');
+// absolute path
+const staticPath = path.join(__dirname);
 console.log('path is ', staticPath);
 
-app.use(express.static);
-
-app.get("", (req, res)=> {
-    res.send(staticPath)
-});
+//builtin middleware
+app.use(express.static(staticPath));
 
 app.get('/', (req, res)=> {
     res.send("Home route");
+});
+
+app.get('/about', (req, res)=> {
+    res.send("About this website.");
 });
 
 app.listen(port, ()=> {
